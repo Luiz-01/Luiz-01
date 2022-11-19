@@ -5,15 +5,17 @@
 
 <div align="center">
   <a href="https://github.com/Luiz-01">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiz-01&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-01&theme=synthwave&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiz-01&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-01&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Luiz-01&bg_color=1f1f1f&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Luiz-01&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lUIZ-01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
